@@ -124,5 +124,9 @@ form input{
     }
     .left p{
         height: 75px;
+        width: 100dvw;
+    }
+    form{
+        width: 100dvw;
     }
 }
